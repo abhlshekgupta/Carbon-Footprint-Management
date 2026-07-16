@@ -4,10 +4,9 @@ A production-ready, browser-first web application for comprehensive carbon footp
 
 ---
 
-<img width="1916" height="876" alt="Screenshot 2025-10-28 201540" src="https://github.com/user-attachments/assets/4e1e143e-039c-4da2-9a3c-a7be665c52dc" />
+<img width="1919" height="800" alt="Screenshot 2026-07-16 213544" src="https://github.com/user-attachments/assets/15150bfe-fdc8-4831-ad61-67e2e3be9d79" />
+<img width="1913" height="765" alt="Screenshot 2026-07-16 213530" src="https://github.com/user-attachments/assets/afed196e-03be-491b-9f5c-84963c22b5da" />
 
-<img width="1898" height="855" alt="Screenshot 2025-10-28 201521" src="https://github.com/user-attachments/assets/fdab2c17-9ff6-4b55-9641-226b0cbf6055" />
-<img width="1911" height="889" alt="Screenshot 2025-10-28 201558" src="https://github.com/user-attachments/assets/19b46a74-27fb-43f1-94a6-2c8dfae2316f" />
 
 ---
 
